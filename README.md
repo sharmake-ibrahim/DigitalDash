@@ -89,3 +89,6 @@ Feel free to open issues or send pull requests.
 * No persistence (if using static setup)
 
 Happy Coding!
+
+
+![Alt](https://repobeats.axiom.co/api/embed/5b6d5f53b862d9a86ba769bc13ae11d96c60ff66.svg "Repobeats analytics image")
